@@ -7,14 +7,15 @@ Take a maymay break!!!!!
 
 /* Just a way to increase commits....YOLO */
 
-![](https://github.com/KKhushhalR2405/MayMay/blob/master/4pNGN.png)
+<img src="https://github.com/KKhushhalR2405/MayMay/blob/master/4pNGN.png" width="300" height="300">
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/KKhushhalR2405/MayMay/blob/master/recursion.jpg)
+<img src="https://github.com/KKhushhalR2405/MayMay/blob/master/recursion.jpg" width="300" height="300">
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/KKhushhalR2405/MayMay/blob/master/updates.jpeg)
+<img src="github.com/KKhushhalR2405/MayMay/blob/master/updates.jpeg" width="100" height="100">
+
 
 
