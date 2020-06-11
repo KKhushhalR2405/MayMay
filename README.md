@@ -1,6 +1,6 @@
 # MayMay
 
-Take a maymay break!!!!! 
+Take a meme break!!!!! 
 
 
 
