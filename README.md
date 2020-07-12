@@ -51,4 +51,4 @@ Take a meme break!!!!!
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/KKhushhalR2405/MayMay/blob/master/More/virus%20op.jpeg" width="300" height="300">
+<img src="https://github.com/KKhushhalR2405/MayMay/blob/master/More/virus%20op.jpeg" width="400" height="250">
