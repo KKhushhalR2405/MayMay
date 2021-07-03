@@ -68,4 +68,3 @@ Take a meme break!!!
 
 <img src="https://github.com/KKhushhalR2405/MayMay/blob/master/More/kuchbhi.jpeg" width="300" height="300">
 
-
